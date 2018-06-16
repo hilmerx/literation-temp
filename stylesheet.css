@@ -1,0 +1,23 @@
+/* Temp CSS for Literation   */
+
+body{
+  background: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+
+}
+
+#title{
+  background: #fff;
+  color: #4A4A4A;
+  font-family: 'Questrial', sans-serif;
+  font-size: 30px;
+}
+
+#text{
+  background: #fff;
+  color: #4A4A4A;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+}
